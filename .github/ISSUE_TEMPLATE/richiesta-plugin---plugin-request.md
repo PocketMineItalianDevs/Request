@@ -2,7 +2,7 @@
 name: Richiesta Plugin / Plugin Request
 about: 'Qui puoi richiedere a noi del team di progettare e sviluppare il tuo plugin
   gratuitamente. '
-title: "[Request] "
+title: "[Request]  Inserisci il nome del plugin qui"
 labels: ''
 assignees: ''
 
