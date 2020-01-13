@@ -14,11 +14,7 @@ assignees: ''
 
 
 ### Terze Parti
-<!--- Prima di rispondere a questa domanda, assicurati di esserti informato a dovere su ciò che andrai a 
-         scrivere.
-
-         Se vuoi mettere la spunta su "Si" o su "No" ti basterà scrivere al posto di "[ ]" "[x]" sull'opzione da te 
-         scelta. -->
+<!--- Prima di rispondere a questa domanda, assicurati di esserti informato a dovere su ciò che andrai a scrivere. Se vuoi mettere la spunta su "Si" o su "No" ti basterà scrivere al posto di "[ ]" "[x]" sull'opzione da te scelta. -->
 - _Esistono altri plugin che fanno ciò che ci chiedi?_ 
    - [ ] Si
    - [ ] No
@@ -30,11 +26,7 @@ assignees: ''
 
 
 ### Utilità
-<!--- Rispondendo NO, riduci le possibilità che il plugin venga sviluppato, in quanto noi serviamo la 
-         community prima del singolo individuo. 
-
-         Se vuoi mettere la spunta su "Si" o su "No" ti basterà scrivere al posto di "[ ]" "[x]" sull'opzione da te 
-         scelta -->
+<!--- Rispondendo NO, riduci le possibilità che il plugin venga sviluppato, in quanto noi serviamo la community prima del singolo individuo. Se vuoi mettere la spunta su "Si" o su "No" ti basterà scrivere al posto di "[ ]" "[x]" sull'opzione da te scelta -->
 - _Credi che il plugin sia utile alla community?_
    - [ ] Si
    - [ ] No
