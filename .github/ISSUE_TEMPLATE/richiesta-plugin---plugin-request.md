@@ -24,6 +24,13 @@ assignees: ''
 - Il plugin in questione supporta l'ultima api di pocketmine? 
 <!-- Sei pregato di NON rispondere a questa domanda se nella prima di questa sezione hai risposto "No" -->
 
+<!-- Se vuoi mettere la spunta su "Si" o su "No" ti basterà scrivere al posto di "[ ]" "[x]" sull'opzione da te scelta. -->
+- _Il plugin ha bisogno di altri plugin online per funzionare?_
+   - [ ] Si
+   - [ ] No
+- _Se si di quale? (invia anche il link del plugin)_
+<!-- Sei pregato di NON rispondere a questa domanda se nella domanda precedente hai risposto "No" -->
+
 
 ### Utilità
 <!--- Rispondendo NO, riduci le possibilità che il plugin venga sviluppato, in quanto noi serviamo la community prima del singolo individuo. Se vuoi mettere la spunta su "Si" o su "No" ti basterà scrivere al posto di "[ ]" "[x]" sull'opzione da te scelta -->
